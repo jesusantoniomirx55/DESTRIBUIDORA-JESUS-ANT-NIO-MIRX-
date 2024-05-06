@@ -1,0 +1,53 @@
+body {
+    font-family: cursive;
+    margin: 0;
+    padding: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
+label, input {
+    margin-bottom: 10px;
+}
+button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    padding: 0%;
+    padding-top: 5%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+h4  {
+    background-color: yellow;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h6 {
+    color: #fff;
+}
+
+div {
+    padding: 0%;
+    padding-top: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
